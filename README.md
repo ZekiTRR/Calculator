@@ -28,7 +28,7 @@ Ensure that you have the Java Development Kit (JDK) installed on your computer. 
 Open your terminal (or command prompt) and run the following command:
 
 ```bash
-git clone https://github.com/ZekiTRR/Caclulator.git
+git clone https://github.com/ZekiTRR/Calculator.git
 ```
 
 

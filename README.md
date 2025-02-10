@@ -28,10 +28,9 @@ Ensure that you have the Java Development Kit (JDK) installed on your computer. 
 Open your terminal (or command prompt) and run the following command:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/ZekiTRR/Caclulator.git
 ```
 
-*Replace `your-username` and `your-repo-name` with your actual GitHub username and repository name.*
 
 ### 3. Compile the Project
 
